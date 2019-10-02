@@ -1,0 +1,88 @@
+2019-10-01 16:20:56,805 desktop-65096s5 my-app-runner.jar[13328] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 16:20:56,866 desktop-65096s5 my-app-runner.jar[13328] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 16:20:57,001 desktop-65096s5 my-app-runner.jar[13328] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2019-10-01 16:20:57,674 desktop-65096s5 my-app-runner.jar[13328] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 56364 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 16:20:57,676 desktop-65096s5 my-app-runner.jar[13328] WARN  [io.qua.agr.run.AbstractDataSourceProducer] (main) Datasource <default> not started: driver and/or url are not defined.
+2019-10-01 18:37:55,550 desktop-65096s5 my-app-runner.jar[13796] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 18:37:55,598 desktop-65096s5 my-app-runner.jar[13796] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 18:37:55,705 desktop-65096s5 my-app-runner.jar[13796] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2019-10-01 18:37:56,172 desktop-65096s5 my-app-runner.jar[13796] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 61692 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 18:37:56,173 desktop-65096s5 my-app-runner.jar[13796] WARN  [io.qua.agr.run.AbstractDataSourceProducer] (main) Datasource <default> not started: driver and/or url are not defined.
+2019-10-01 18:50:52,541 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 18:50:52,597 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 18:50:52,732 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-01 18:50:53,350 desktop-65096s5 my-app-runner.jar[16488] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 62154 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 18:50:53,562 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-01 18:50:53,764 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-01 18:50:53,965 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-01 18:50:54,062 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-01 18:50:54,075 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-01 18:50:55,078 desktop-65096s5 my-app-runner.jar[16488] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-01 18:50:55,131 desktop-65096s5 my-app-runner.jar[16488] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 10.273s. Listening on: http://[::]:8080
+2019-10-01 18:50:55,134 desktop-65096s5 my-app-runner.jar[16488] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-01 18:51:23,928 desktop-65096s5 my-app-runner.jar[16488] INFO  [io.quarkus] (main) Quarkus stopped in 0.034s
+2019-10-01 18:51:33,097 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 18:51:33,159 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 18:51:33,315 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-01 18:51:33,860 desktop-65096s5 my-app-runner.jar[5428] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 62204 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 18:51:33,990 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-01 18:51:34,174 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-01 18:51:34,352 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-01 18:51:34,451 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-01 18:51:34,466 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-01 18:51:34,531 desktop-65096s5 my-app-runner.jar[5428] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-01 18:51:34,582 desktop-65096s5 my-app-runner.jar[5428] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 2.068s. Listening on: http://[::]:8080
+2019-10-01 18:51:34,584 desktop-65096s5 my-app-runner.jar[5428] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-01 18:51:34,605 desktop-65096s5 my-app-runner.jar[5428] INFO  [io.quarkus] (main) Quarkus stopped in 0.011s
+2019-10-01 18:51:58,706 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 18:51:58,763 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 18:51:58,912 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-01 18:51:59,566 desktop-65096s5 my-app-runner.jar[23044] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 62246 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 18:51:59,712 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-01 18:51:59,903 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-01 18:52:00,083 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-01 18:52:00,187 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-01 18:52:00,202 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-01 18:52:00,266 desktop-65096s5 my-app-runner.jar[23044] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-01 18:52:00,318 desktop-65096s5 my-app-runner.jar[23044] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 9.148s. Listening on: http://[::]:9090
+2019-10-01 18:52:00,321 desktop-65096s5 my-app-runner.jar[23044] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-01 18:52:43,467 desktop-65096s5 my-app-runner.jar[23044] INFO  [io.quarkus] (main) Quarkus stopped in 0.022s
+2019-10-01 18:53:44,733 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-01 18:53:44,795 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-01 18:53:44,923 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-01 18:53:45,408 desktop-65096s5 my-app-runner.jar[416] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 62336 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-01 18:53:45,564 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-01 18:53:45,740 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-01 18:53:45,899 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-01 18:53:45,992 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-01 18:53:46,007 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-01 18:53:46,068 desktop-65096s5 my-app-runner.jar[416] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-01 18:53:46,121 desktop-65096s5 my-app-runner.jar[416] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 8.964s. Listening on: http://[::]:9090
+2019-10-01 18:53:46,124 desktop-65096s5 my-app-runner.jar[416] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-01 21:11:56,731 desktop-65096s5 my-app-runner.jar[416] INFO  [io.quarkus] (main) Quarkus stopped in 0.018s
+2019-10-02 11:35:54,041 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-02 11:35:54,119 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-02 11:35:54,295 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-02 11:35:54,933 desktop-65096s5 my-app-runner.jar[23912] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 62914 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-02 11:35:55,069 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-02 11:35:55,291 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-02 11:35:55,492 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-02 11:35:55,592 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-02 11:35:55,606 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-02 11:35:56,577 desktop-65096s5 my-app-runner.jar[23912] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-02 11:35:56,638 desktop-65096s5 my-app-runner.jar[23912] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 11.344s. Listening on: http://[::]:9090
+2019-10-02 11:35:56,642 desktop-65096s5 my-app-runner.jar[23912] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-02 13:37:51,646 desktop-65096s5 my-app-runner.jar[23912] INFO  [io.quarkus] (main) Quarkus stopped in 0.023s
+2019-10-02 13:42:25,382 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.Version] (main) HHH000412: Hibernate Core {5.4.1.Final}
+2019-10-02 13:42:25,439 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-02 13:42:25,571 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-10-02 13:42:26,202 desktop-65096s5 my-app-runner.jar[17168] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 52653 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-10-02 13:42:26,352 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-10-02 13:42:26,520 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-10-02 13:42:26,715 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.hib.too.sch.int.SchemaCreatorImpl] (main) HHH000476: Executing import script 'jar:file:/D:/GitHub/recommendations/backend/target/my-app-runner.jar!/import.sql'
+2019-10-02 13:42:26,801 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-10-02 13:42:26,814 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-10-02 13:42:26,869 desktop-65096s5 my-app-runner.jar[17168] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-10-02 13:42:26,915 desktop-65096s5 my-app-runner.jar[17168] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 8.178s. Listening on: http://[::]:9090
+2019-10-02 13:43:31,876 desktop-65096s5 my-app-runner.jar[17168] INFO  [io.quarkus] (main) Installed features: [agroal, cdi, hibernate-orm, jdbc-h2, narayana-jta, resteasy, resteasy-jsonb, smallrye-health]
+2019-10-02 13:43:33,135 desktop-65096s5 my-app-runner.jar[17168] INFO  [io.quarkus] (main) Quarkus stopped in 0.032s

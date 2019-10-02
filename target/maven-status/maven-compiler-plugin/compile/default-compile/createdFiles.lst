@@ -1,0 +1,9 @@
+io\openshift\booster\http\GreetingEndpoint.class
+io\openshift\booster\database\FruitResource.class
+com\pursuitbank\models\Offer.class
+com\pursuitbank\database\CustomerResource.class
+com\pursuitbank\models\Company.class
+com\pursuitbank\models\Location.class
+com\pursuitbank\models\Customer.class
+io\openshift\booster\http\Greeting.class
+io\openshift\booster\database\Fruit.class
