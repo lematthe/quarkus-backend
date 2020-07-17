@@ -61,4 +61,8 @@ public class Offer implements Serializable {
         this.endDate = endDate;
     }
 
+    public String toString(){
+        return "a string";
+    }
+
 }
