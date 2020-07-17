@@ -62,7 +62,7 @@ public class Offer implements Serializable {
     }
 
     public String toString(){
-        return "another offer";
+        return "another more stuff offer";
     }
 
 }
